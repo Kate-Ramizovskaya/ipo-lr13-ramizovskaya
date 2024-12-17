@@ -1,6 +1,7 @@
 from handlers.image_handler import ImageHandler
 from handlers.image_processor import ImageProcessor
 
+
 def main_menu():
     print("\n--- Меню работы с изображением ---")
     print("1. Повернуть изображение на 90 градусов")
